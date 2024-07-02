@@ -67,7 +67,7 @@
     "eventproxy": "0.2.5",
     "fs-extra": "0.6.1",
     "jade": "0.27.7",
-    "less": "^1.7.5",
+    "less": "^2.1.0",
     "postcss": "^6.0.14",
     "uglify-es": "^3.1.9",
     "uglify-js": "^3.1.9"
